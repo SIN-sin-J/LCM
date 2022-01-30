@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-
-/* Function declaration */
 int lcm(int a, int b);
 
 
